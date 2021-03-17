@@ -1,2 +1,2 @@
-# PROJECT_THU_CHI_SINNO
-đây là demo project thu chi 
+# SINNOProjectTemplate
+Documents, Organization, Folder structures, Standards of a Project in SOICT Innovation Club
